@@ -36,19 +36,39 @@ body {
 }
 
 .image1 {
-    padding: 10px;
+    padding: 7px;
 }
 
 .image2 {
-    padding: 10px;
+    padding: 7px;
 }
 
 .image3 {
-    padding: 10px;
+    padding: 7px;
 }
 
 .image4 {
-    padding: 10px;
+    padding: 7px;
+}
+
+.image5 {
+    padding: 7px;
+}
+
+.image6 {
+    padding: 7px;
+}
+
+.image7 {
+    padding: 7px;
+}
+
+.image8 {
+    padding: 7px;
+}
+
+.image9 {
+    padding: 7px;
 }
 
 @media only screen and (min-width: 768px) {

@@ -9,7 +9,7 @@ body {
 }
 
 .box {
-    width: 500px;
+    width: 600px;
     height: 300px;
     background-color: #d4a483;
     color: #3e5e47;
@@ -17,7 +17,7 @@ body {
     font-size: 40px;
     font-family: "Grenze Gotisch";
     src: url("/fonts/GrenzeGotisch-Bold.ttf") format("ttf");
-    padding: 30px;
+    padding: 40px;
     border-radius: 15px;
 }
 
@@ -28,6 +28,7 @@ body {
 
 .content p {
     margin-bottom: 10px;
+    margin-top: 0px;
 }
 
 .content img {
